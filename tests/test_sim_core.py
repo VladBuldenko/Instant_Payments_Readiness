@@ -1,3 +1,5 @@
+# NOTE: This test module was partially created with assistance from ChatGPT.
+
 # Import system libs to adjust Python path (so we can import from ../src)
 import sys
 import os

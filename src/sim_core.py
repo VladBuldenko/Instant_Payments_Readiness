@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+# NOTE: This function was partially assisted by ChatGPT.
 # Synthetic data generator
 def generate_synth(n: int = 5000, seed: int=42, min_amount: float = 10.0, max_amount: float = 5000.0)->pd.DataFrame:
     
@@ -26,6 +27,7 @@ def generate_synth(n: int = 5000, seed: int=42, min_amount: float = 10.0, max_am
     })
     return df
 
+# NOTE: This function was partially assisted by ChatGPT.
 # Vop simulation (H2)
 def simulate_vop(df: pd.DataFrame, threshold: float = 0.8, base_latency_s: float = 0.5, latency_slope: float=1.2)->dict:
     """
@@ -55,6 +57,7 @@ def simulate_vop(df: pd.DataFrame, threshold: float = 0.8, base_latency_s: float
         "latency_p95": latency_p95
     }
 
+# NOTE: This function was partially assisted by ChatGPT.
 def scan_vop(df: pd.DataFrame, thresholds: np.ndarray)-> pd.DataFrame:
     """
     Run VoP simulation for a list/array of thresholds and return a tidy table.
@@ -71,6 +74,7 @@ def scan_vop(df: pd.DataFrame, thresholds: np.ndarray)-> pd.DataFrame:
     # Build dataframe with results
     return pd.DataFrame(rows)
 
+# NOTE: This function was partially assisted by ChatGPT.
 # Fraud filter simulation (H3)
 def simulate_fraud(df: pd.DataFrame, threshold: float = 0.5)-> dict:
     """
@@ -97,6 +101,7 @@ def simulate_fraud(df: pd.DataFrame, threshold: float = 0.5)-> dict:
         "manual_review_rate": manual_review_rate
     }
 
+# NOTE: This function was partially assisted by ChatGPT.
 def scan_fraud(df: pd.DataFrame, thresholds: np.ndarray)->pd.DataFrame:
     """
     Run fraud simulation for a list/array of thresholds and return a tidy table.
