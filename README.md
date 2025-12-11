@@ -117,7 +117,7 @@ source venv/bin/activate     # macOS/Linux
 
 pip install -r requirements.txt
 
-streamlit run app/streamlit_app.py
+streamlit run app/instant_simulator_app.py
 
 
 Tests:
