@@ -19,6 +19,8 @@ Deutsche Bundesbank — Statistics on payments and securities trading, clearing 
 Section I. Payments statistics (24.07.2025).
 Source hub: https://www.bundesbank.de/en/statistics/banks-and-other-financial-corporations/payments-statistics/statistics-on-payments-and-securites-trading-clearing-and-settlement-in-germany-810330
 
+Credit Card Fraud Detection — Anonymized credit card transactions made by European cardholders. Used for binary fraud classification with Class as the target variable. Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Used for:
 
 SCT Inst growth
