@@ -5,3 +5,5 @@ seaborn
 tabula-py
 pytest
 streamlit
+scikit-learn
+joblib
