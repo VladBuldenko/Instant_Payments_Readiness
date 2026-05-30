@@ -72,9 +72,6 @@ db.sqlite3
 db.sqlite3-journal
 
 # Data (store small samples only)
-data/raw/
-data/interim/
-data/processed/
 *.parquet
 *.feather
 *.arrow

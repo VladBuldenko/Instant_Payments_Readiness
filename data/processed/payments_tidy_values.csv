@@ -1,0 +1,313 @@
+Payment_Type,period,value,metric,unit
+Credit transfers,2022H1,31864561.0,value_eur,million_eur
+Domestic,2022H1,23934146.0,value_eur,million_eur
+Cross-border,2022H1,7930415.0,value_eur,million_eur
+Initiated in paper-based form 2,2022H1,2965325.0,value_eur,million_eur
+Initiated electronically,2022H1,28400585.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2022H1,21854.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2022H1,57122.0,value_eur,million_eur
+Direct debits,2022H1,1776283.0,value_eur,million_eur
+Domestic,2022H1,1664694.0,value_eur,million_eur
+Cross-border,2022H1,111589.0,value_eur,million_eur
+Card payments,2022H1,226660.0,value_eur,million_eur
+Domestic,2022H1,183400.0,value_eur,million_eur
+Cross-border,2022H1,43261.0,value_eur,million_eur
+initiated electronically,2022H1,222354.0,value_eur,million_eur
+initiated via remote payment channel,2022H1,41023.0,value_eur,million_eur
+Domestic,2022H1,16660.0,value_eur,million_eur
+Cross-border,2022H1,24363.0,value_eur,million_eur
+initiated via non-remote payment channel,2022H1,181331.0,value_eur,million_eur
+Domestic,2022H1,164028.0,value_eur,million_eur
+Cross-border,2022H1,17303.0,value_eur,million_eur
+Contactless payments at a terminal,2022H1,106742.0,value_eur,million_eur
+with a debit card,2022H1,162298.0,value_eur,million_eur
+Domestic,2022H1,147212.0,value_eur,million_eur
+Cross-border,2022H1,15086.0,value_eur,million_eur
+with a delayed debit card,2022H1,54752.0,value_eur,million_eur
+Domestic,2022H1,30746.0,value_eur,million_eur
+Cross-border,2022H1,24006.0,value_eur,million_eur
+with a credit card,2022H1,5304.0,value_eur,million_eur
+Domestic,2022H1,2731.0,value_eur,million_eur
+Cross-border,2022H1,2573.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2022H1,170818.0,value_eur,million_eur
+Domestic,2022H1,166883.0,value_eur,million_eur
+Cross-border,2022H1,3935.0,value_eur,million_eur
+with a debit card,2022H1,165544.0,value_eur,million_eur
+with a delayed debit card,2022H1,4879.0,value_eur,million_eur
+with a credit card,2022H1,394.0,value_eur,million_eur
+E-money payment transactions,2022H1,219.0,value_eur,million_eur
+Cheques,2022H1,16520.0,value_eur,million_eur
+Money remittances,2022H1,59258.0,value_eur,million_eur
+Domestic,2022H1,56796.0,value_eur,million_eur
+Cross-border,2022H1,2462.0,value_eur,million_eur
+Other payment services 3,2022H1,20461.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2022H1,34134781.0,value_eur,million_eur
+Domestic,2022H1,26041597.0,value_eur,million_eur
+Cross-border,2022H1,8093183.0,value_eur,million_eur
+Payments initiated by domestic,2022H1,,value_eur,million_eur
+payment initiation service providers,2022H1,38154.0,value_eur,million_eur
+Domestic,2022H1,35545.0,value_eur,million_eur
+Cross-border,2022H1,2609.0,value_eur,million_eur
+Memorandum items:,2022H1,,value_eur,million_eur
+Credits to the accounts by simple book entry,2022H1,2807652.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2022H1,2487008.0,value_eur,million_eur
+Credit transfers,2022H2,33354599.0,value_eur,million_eur
+Domestic,2022H2,24900638.0,value_eur,million_eur
+Cross-border,2022H2,8453961.0,value_eur,million_eur
+Initiated in paper-based form 2,2022H2,2345176.0,value_eur,million_eur
+Initiated electronically,2022H2,30597461.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2022H2,27132.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2022H2,69204.0,value_eur,million_eur
+Direct debits,2022H2,2265886.0,value_eur,million_eur
+Domestic,2022H2,1759791.0,value_eur,million_eur
+Cross-border,2022H2,506094.0,value_eur,million_eur
+Card payments,2022H2,258732.0,value_eur,million_eur
+Domestic,2022H2,207566.0,value_eur,million_eur
+Cross-border,2022H2,51166.0,value_eur,million_eur
+initiated electronically,2022H2,253490.0,value_eur,million_eur
+initiated via remote payment channel,2022H2,46199.0,value_eur,million_eur
+Domestic,2022H2,18976.0,value_eur,million_eur
+Cross-border,2022H2,27224.0,value_eur,million_eur
+initiated via non-remote payment channel,2022H2,207291.0,value_eur,million_eur
+Domestic,2022H2,185489.0,value_eur,million_eur
+Cross-border,2022H2,21802.0,value_eur,million_eur
+Contactless payments at a terminal,2022H2,134549.0,value_eur,million_eur
+with a debit card,2022H2,186527.0,value_eur,million_eur
+Domestic,2022H2,167465.0,value_eur,million_eur
+Cross-border,2022H2,19062.0,value_eur,million_eur
+with a delayed debit card,2022H2,60918.0,value_eur,million_eur
+Domestic,2022H2,33907.0,value_eur,million_eur
+Cross-border,2022H2,27011.0,value_eur,million_eur
+with a credit card,2022H2,6045.0,value_eur,million_eur
+Domestic,2022H2,3092.0,value_eur,million_eur
+Cross-border,2022H2,2953.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2022H2,190323.0,value_eur,million_eur
+Domestic,2022H2,185346.0,value_eur,million_eur
+Cross-border,2022H2,4977.0,value_eur,million_eur
+with a debit card,2022H2,185684.0,value_eur,million_eur
+with a delayed debit card,2022H2,4176.0,value_eur,million_eur
+with a credit card,2022H2,463.0,value_eur,million_eur
+E-money payment transactions,2022H2,260.0,value_eur,million_eur
+Cheques,2022H2,13992.0,value_eur,million_eur
+Money remittances,2022H2,64774.0,value_eur,million_eur
+Domestic,2022H2,62142.0,value_eur,million_eur
+Cross-border,2022H2,2632.0,value_eur,million_eur
+Other payment services 3,2022H2,19504.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2022H2,36168069.0,value_eur,million_eur
+Domestic,2022H2,27147894.0,value_eur,million_eur
+Cross-border,2022H2,9020175.0,value_eur,million_eur
+Payments initiated by domestic,2022H2,,value_eur,million_eur
+payment initiation service providers,2022H2,42177.0,value_eur,million_eur
+Domestic,2022H2,39681.0,value_eur,million_eur
+Cross-border,2022H2,2496.0,value_eur,million_eur
+Memorandum items:,2022H2,,value_eur,million_eur
+Credits to the accounts by simple book entry,2022H2,3660293.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2022H2,3393490.0,value_eur,million_eur
+Credit transfers,2023H1,31940291.0,value_eur,million_eur
+Domestic,2023H1,24516199.0,value_eur,million_eur
+Cross-border,2023H1,7424091.0,value_eur,million_eur
+Initiated in paper-based form 2,2023H1,2218260.0,value_eur,million_eur
+Initiated electronically,2023H1,29334651.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2023H1,28785.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2023H1,83012.0,value_eur,million_eur
+Direct debits,2023H1,2758358.0,value_eur,million_eur
+Domestic,2023H1,1724586.0,value_eur,million_eur
+Cross-border,2023H1,1033772.0,value_eur,million_eur
+Card payments,2023H1,260703.0,value_eur,million_eur
+Domestic,2023H1,210865.0,value_eur,million_eur
+Cross-border,2023H1,49839.0,value_eur,million_eur
+initiated electronically,2023H1,255196.0,value_eur,million_eur
+initiated via remote payment channel,2023H1,47872.0,value_eur,million_eur
+Domestic,2023H1,19826.0,value_eur,million_eur
+Cross-border,2023H1,28047.0,value_eur,million_eur
+initiated via non-remote payment channel,2023H1,207324.0,value_eur,million_eur
+Domestic,2023H1,187747.0,value_eur,million_eur
+Cross-border,2023H1,19577.0,value_eur,million_eur
+Contactless payments at a terminal,2023H1,144199.0,value_eur,million_eur
+with a debit card,2023H1,188135.0,value_eur,million_eur
+Domestic,2023H1,170336.0,value_eur,million_eur
+Cross-border,2023H1,17799.0,value_eur,million_eur
+with a delayed debit card,2023H1,60978.0,value_eur,million_eur
+Domestic,2023H1,34058.0,value_eur,million_eur
+Cross-border,2023H1,26921.0,value_eur,million_eur
+with a credit card,2023H1,6083.0,value_eur,million_eur
+Domestic,2023H1,3178.0,value_eur,million_eur
+Cross-border,2023H1,2904.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2023H1,184974.0,value_eur,million_eur
+Domestic,2023H1,180998.0,value_eur,million_eur
+Cross-border,2023H1,3976.0,value_eur,million_eur
+with a debit card,2023H1,180646.0,value_eur,million_eur
+with a delayed debit card,2023H1,3890.0,value_eur,million_eur
+with a credit card,2023H1,437.0,value_eur,million_eur
+E-money payment transactions,2023H1,273.0,value_eur,million_eur
+Cheques,2023H1,11054.0,value_eur,million_eur
+Money remittances,2023H1,67824.0,value_eur,million_eur
+Domestic,2023H1,65395.0,value_eur,million_eur
+Cross-border,2023H1,2428.0,value_eur,million_eur
+Other payment services 3,2023H1,16110.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2023H1,35239586.0,value_eur,million_eur
+Domestic,2023H1,26724182.0,value_eur,million_eur
+Cross-border,2023H1,8515404.0,value_eur,million_eur
+Payments initiated by domestic,2023H1,,value_eur,million_eur
+payment initiation service providers,2023H1,44594.0,value_eur,million_eur
+Domestic,2023H1,42154.0,value_eur,million_eur
+Cross-border,2023H1,2441.0,value_eur,million_eur
+Memorandum items:,2023H1,,value_eur,million_eur
+Credits to the accounts by simple book entry,2023H1,5791614.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2023H1,5744465.0,value_eur,million_eur
+Credit transfers,2023H2,30928123.0,value_eur,million_eur
+Domestic,2023H2,24703764.0,value_eur,million_eur
+Cross-border,2023H2,6224360.0,value_eur,million_eur
+Initiated in paper-based form 2,2023H2,2424488.0,value_eur,million_eur
+Initiated electronically,2023H2,28104682.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2023H2,33757.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2023H2,97307.0,value_eur,million_eur
+Direct debits,2023H2,2695692.0,value_eur,million_eur
+Domestic,2023H2,1786019.0,value_eur,million_eur
+Cross-border,2023H2,909673.0,value_eur,million_eur
+Card payments,2023H2,282112.0,value_eur,million_eur
+Domestic,2023H2,225661.0,value_eur,million_eur
+Cross-border,2023H2,56451.0,value_eur,million_eur
+initiated electronically,2023H2,276596.0,value_eur,million_eur
+initiated via remote payment channel,2023H2,51867.0,value_eur,million_eur
+Domestic,2023H2,21316.0,value_eur,million_eur
+Cross-border,2023H2,30551.0,value_eur,million_eur
+initiated via non-remote payment channel,2023H2,224729.0,value_eur,million_eur
+Domestic,2023H2,201021.0,value_eur,million_eur
+Cross-border,2023H2,23708.0,value_eur,million_eur
+Contactless payments at a terminal,2023H2,161029.0,value_eur,million_eur
+with a debit card,2023H2,203891.0,value_eur,million_eur
+Domestic,2023H2,182235.0,value_eur,million_eur
+Cross-border,2023H2,21656.0,value_eur,million_eur
+with a delayed debit card,2023H2,65749.0,value_eur,million_eur
+Domestic,2023H2,36488.0,value_eur,million_eur
+Cross-border,2023H2,29261.0,value_eur,million_eur
+with a credit card,2023H2,6956.0,value_eur,million_eur
+Domestic,2023H2,3614.0,value_eur,million_eur
+Cross-border,2023H2,3342.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2023H2,186230.0,value_eur,million_eur
+Domestic,2023H2,181449.0,value_eur,million_eur
+Cross-border,2023H2,4781.0,value_eur,million_eur
+with a debit card,2023H2,181653.0,value_eur,million_eur
+with a delayed debit card,2023H2,4110.0,value_eur,million_eur
+with a credit card,2023H2,467.0,value_eur,million_eur
+E-money payment transactions,2023H2,291.0,value_eur,million_eur
+Cheques,2023H2,9561.0,value_eur,million_eur
+Money remittances,2023H2,63692.0,value_eur,million_eur
+Domestic,2023H2,61224.0,value_eur,million_eur
+Cross-border,2023H2,2468.0,value_eur,million_eur
+Other payment services 3,2023H2,16693.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2023H2,34182394.0,value_eur,million_eur
+Domestic,2023H2,26983477.0,value_eur,million_eur
+Cross-border,2023H2,7198917.0,value_eur,million_eur
+Payments initiated by domestic,2023H2,,value_eur,million_eur
+payment initiation service providers,2023H2,56185.0,value_eur,million_eur
+Domestic,2023H2,53536.0,value_eur,million_eur
+Cross-border,2023H2,2649.0,value_eur,million_eur
+Memorandum items:,2023H2,,value_eur,million_eur
+Credits to the accounts by simple book entry,2023H2,3863078.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2023H2,3880211.0,value_eur,million_eur
+Credit transfers,2024H1,31796135.0,value_eur,million_eur
+Domestic,2024H1,24576397.0,value_eur,million_eur
+Cross-border,2024H1,7219738.0,value_eur,million_eur
+Initiated in paper-based form 2,2024H1,2754230.0,value_eur,million_eur
+Initiated electronically,2024H1,28656597.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2024H1,34719.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2024H1,113944.0,value_eur,million_eur
+Direct debits,2024H1,2949088.0,value_eur,million_eur
+Domestic,2024H1,1775224.0,value_eur,million_eur
+Cross-border,2024H1,1173864.0,value_eur,million_eur
+Card payments,2024H1,274692.0,value_eur,million_eur
+Domestic,2024H1,220951.0,value_eur,million_eur
+Cross-border,2024H1,53741.0,value_eur,million_eur
+initiated electronically,2024H1,269290.0,value_eur,million_eur
+initiated via remote payment channel,2024H1,52787.0,value_eur,million_eur
+Domestic,2024H1,21940.0,value_eur,million_eur
+Cross-border,2024H1,30847.0,value_eur,million_eur
+initiated via non-remote payment channel,2024H1,216503.0,value_eur,million_eur
+Domestic,2024H1,195789.0,value_eur,million_eur
+Cross-border,2024H1,20714.0,value_eur,million_eur
+Contactless payments at a terminal,2024H1,162113.0,value_eur,million_eur
+with a debit card,2024H1,198098.0,value_eur,million_eur
+Domestic,2024H1,177835.0,value_eur,million_eur
+Cross-border,2024H1,20264.0,value_eur,million_eur
+with a delayed debit card,2024H1,64300.0,value_eur,million_eur
+Domestic,2024H1,36080.0,value_eur,million_eur
+Cross-border,2024H1,28220.0,value_eur,million_eur
+with a credit card,2024H1,6892.0,value_eur,million_eur
+Domestic,2024H1,3815.0,value_eur,million_eur
+Cross-border,2024H1,3077.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2024H1,173499.0,value_eur,million_eur
+Domestic,2024H1,170070.0,value_eur,million_eur
+Cross-border,2024H1,3429.0,value_eur,million_eur
+with a debit card,2024H1,169264.0,value_eur,million_eur
+with a delayed debit card,2024H1,3795.0,value_eur,million_eur
+with a credit card,2024H1,440.0,value_eur,million_eur
+E-money payment transactions,2024H1,298.0,value_eur,million_eur
+Cheques,2024H1,7376.0,value_eur,million_eur
+Money remittances,2024H1,62046.0,value_eur,million_eur
+Domestic,2024H1,59646.0,value_eur,million_eur
+Cross-border,2024H1,2400.0,value_eur,million_eur
+Other payment services 3,2024H1,14671.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2024H1,35277804.0,value_eur,million_eur
+Domestic,2024H1,26823430.0,value_eur,million_eur
+Cross-border,2024H1,8454374.0,value_eur,million_eur
+Payments initiated by domestic,2024H1,,value_eur,million_eur
+payment initiation service providers,2024H1,52332.0,value_eur,million_eur
+Domestic,2024H1,49910.0,value_eur,million_eur
+Cross-border,2024H1,2423.0,value_eur,million_eur
+Memorandum items:,2024H1,,value_eur,million_eur
+Credits to the accounts by simple book entry,2024H1,4381555.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2024H1,4205630.0,value_eur,million_eur
+Credit transfers,2024H2,32411076.0,value_eur,million_eur
+Domestic,2024H2,25073955.0,value_eur,million_eur
+Cross-border,2024H2,7337122.0,value_eur,million_eur
+Initiated in paper-based form 2,2024H2,2542509.0,value_eur,million_eur
+Initiated electronically,2024H2,29463989.0,value_eur,million_eur
+Initiated by domestic and foreign payment initiation service providers,2024H2,40390.0,value_eur,million_eur
+Initiated via SEPA credit transfer instant scheme,2024H2,139743.0,value_eur,million_eur
+Direct debits,2024H2,2979381.0,value_eur,million_eur
+Domestic,2024H2,1865912.0,value_eur,million_eur
+Cross-border,2024H2,1113468.0,value_eur,million_eur
+Card payments,2024H2,302121.0,value_eur,million_eur
+Domestic,2024H2,237883.0,value_eur,million_eur
+Cross-border,2024H2,64237.0,value_eur,million_eur
+initiated electronically,2024H2,296202.0,value_eur,million_eur
+initiated via remote payment channel,2024H2,59168.0,value_eur,million_eur
+Domestic,2024H2,23530.0,value_eur,million_eur
+Cross-border,2024H2,35638.0,value_eur,million_eur
+initiated via non-remote payment channel,2024H2,237034.0,value_eur,million_eur
+Domestic,2024H2,210573.0,value_eur,million_eur
+Cross-border,2024H2,26461.0,value_eur,million_eur
+Contactless payments at a terminal,2024H2,180749.0,value_eur,million_eur
+with a debit card,2024H2,219764.0,value_eur,million_eur
+Domestic,2024H2,191932.0,value_eur,million_eur
+Cross-border,2024H2,27833.0,value_eur,million_eur
+with a delayed debit card,2024H2,68444.0,value_eur,million_eur
+Domestic,2024H2,37917.0,value_eur,million_eur
+Cross-border,2024H2,30527.0,value_eur,million_eur
+with a credit card,2024H2,7993.0,value_eur,million_eur
+Domestic,2024H2,4254.0,value_eur,million_eur
+Cross-border,2024H2,3739.0,value_eur,million_eur
+Cash withdrawals using card-based payment instruments,2024H2,185662.0,value_eur,million_eur
+Domestic,2024H2,181519.0,value_eur,million_eur
+Cross-border,2024H2,4143.0,value_eur,million_eur
+with a debit card,2024H2,181227.0,value_eur,million_eur
+with a delayed debit card,2024H2,3974.0,value_eur,million_eur
+with a credit card,2024H2,460.0,value_eur,million_eur
+E-money payment transactions,2024H2,392.0,value_eur,million_eur
+Cheques,2024H2,6337.0,value_eur,million_eur
+Money remittances,2024H2,62350.0,value_eur,million_eur
+Domestic,2024H2,59861.0,value_eur,million_eur
+Cross-border,2024H2,2488.0,value_eur,million_eur
+Other payment services 3,2024H2,16136.0,value_eur,million_eur
+Total payment transactions sent involving non-MFIs,2024H2,35963454.0,value_eur,million_eur
+Domestic,2024H2,27440935.0,value_eur,million_eur
+Cross-border,2024H2,8522519.0,value_eur,million_eur
+Payments initiated by domestic,2024H2,,value_eur,million_eur
+payment initiation service providers,2024H2,63515.0,value_eur,million_eur
+Domestic,2024H2,61150.0,value_eur,million_eur
+Cross-border,2024H2,2366.0,value_eur,million_eur
+Memorandum items:,2024H2,,value_eur,million_eur
+Credits to the accounts by simple book entry,2024H2,4691337.0,value_eur,million_eur
+Debits to the accounts by simple book entry,2024H2,4495203.0,value_eur,million_eur
