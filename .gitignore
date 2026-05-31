@@ -61,6 +61,7 @@ profile_default/
 .ipynb_checkpoints/
 
 # Docs
+data/
 docs/_build/
 site/
 
@@ -72,6 +73,7 @@ db.sqlite3
 db.sqlite3-journal
 
 # Data (store small samples only)
+
 *.parquet
 *.feather
 *.arrow
