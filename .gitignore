@@ -64,6 +64,7 @@ profile_default/
 data/
 docs/_build/
 site/
+reports/
 
 # Framework-specific
 instance/

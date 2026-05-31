@@ -7,3 +7,5 @@ pytest
 streamlit
 scikit-learn
 joblib
+jupyter
+ipykernel
